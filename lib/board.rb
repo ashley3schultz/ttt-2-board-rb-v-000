@@ -1,11 +1,2 @@
 # Define the variable board below.
 row = [" "," "," "," "," "," "," "," "," "]
-tl = row[0]
-tc = row[1]
-tr = row[2]
-ml = row[3]
-mc = row[4]
-mr = row[5]
-bl = row[6]
-bc = row[7]
-br = row[8]
